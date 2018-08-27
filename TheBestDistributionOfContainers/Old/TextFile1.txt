@@ -1,0 +1,25 @@
+﻿     compile error: /usercode/file.cs(32,58): error CS1525: Unexpected symbol `(', expecting `,', `;', or `='
+     /usercode/file.cs(35,64): error CS1525: Unexpected symbol `/', expecting `,', `;', or `='
+     /usercode/file.cs(52,16): error CS1519: Unexpected symbol `for' in class, struct, or interface member declaration
+     /usercode/file.cs(52,25): error CS1519: Unexpected symbol `=' in class, struct, or interface member declaration
+     /usercode/file.cs(52,32): error CS1519: Unexpected symbol `<' in class, struct, or interface member declaration
+     /usercode/file.cs(52,48): error CS1519: Unexpected symbol `;' in class, struct, or interface member declaration
+     /usercode/file.cs(52,52): error CS1519: Unexpected symbol `++' in class, struct, or interface member declaration
+     /usercode/file.cs(53,14): error CS9010: Primary constructor body is not allowed
+     /usercode/file.cs(59,16): error CS1519: Unexpected symbol `for' in class, struct, or interface member declaration
+     /usercode/file.cs(59,25): error CS1519: Unexpected symbol `=' in class, struct, or interface member declaration
+     /usercode/file.cs(59,32): error CS1519: Unexpected symbol `<' in class, struct, or interface member declaration
+     /usercode/file.cs(59,48): error CS1519: Unexpected symbol `;' in class, struct, or interface member declaration
+     /usercode/file.cs(59,52): error CS1519: Unexpected symbol `++' in class, struct, or interface member declaration
+     /usercode/file.cs(60,14): error CS9010: Primary constructor body is not allowed
+     /usercode/file.cs(60,14): error CS8041: Primary constructor already has a body
+     /usercode/file.cs(73,15): error CS1519: Unexpected symbol `if' in class, struct, or interface member declaration
+     /usercode/file.cs(73,32): error CS1519: Unexpected symbol `==' in class, struct, or interface member declaration
+     /usercode/file.cs(73,58): error CS1525: Unexpected symbol `Данные не содержат информации в формате: ID погрузчика/ID контейнера: время погрузки этого контейнера на этом погрузчике в минутах.'
+     /usercode/file.cs(73,47): error CS0106: The modifier `new' is not valid for this item
+     /usercode/file.cs(73,47): error CS1520: Class, struct, or interface method must have a return type
+     /usercode/file.cs(74,19): error CS1519: Unexpected symbol `return' in class, struct, or interface member declaration
+     /usercode/file.cs(74,27): error CS1519: Unexpected symbol `;' in class, struct, or interface member declaration
+     /usercode/file.cs(194,67): error CS1525: Unexpected symbol `(', expecting `,', `;', or `='
+     /usercode/file.cs(324,17): error CS1525: Unexpected symbol `void', expecting `class', `delegate', `enum', `interface', `partial', or `struct'
+     cat: /usercode/errors.txt: No such file or directory

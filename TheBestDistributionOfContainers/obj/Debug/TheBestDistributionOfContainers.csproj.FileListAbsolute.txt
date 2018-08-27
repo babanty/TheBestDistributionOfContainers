@@ -1,0 +1,7 @@
+E:\MyDesktop\Code\c# обучение\Тест касперского 24.08.2018\TheBestDistributionOfContainers\TheBestDistributionOfContainers\obj\Debug\TheBestDistributionOfContainers.csprojResolveAssemblyReference.cache
+E:\MyDesktop\Code\c# обучение\Тест касперского 24.08.2018\TheBestDistributionOfContainers\TheBestDistributionOfContainers\obj\Debug\TheBestDistributionOfContainers.csproj.CoreCompileInputs.cache
+E:\MyDesktop\Code\c# обучение\Тест касперского 24.08.2018\TheBestDistributionOfContainers\TheBestDistributionOfContainers\bin\Debug\TheBestDistributionOfContainers.exe.config
+E:\MyDesktop\Code\c# обучение\Тест касперского 24.08.2018\TheBestDistributionOfContainers\TheBestDistributionOfContainers\bin\Debug\TheBestDistributionOfContainers.exe
+E:\MyDesktop\Code\c# обучение\Тест касперского 24.08.2018\TheBestDistributionOfContainers\TheBestDistributionOfContainers\bin\Debug\TheBestDistributionOfContainers.pdb
+E:\MyDesktop\Code\c# обучение\Тест касперского 24.08.2018\TheBestDistributionOfContainers\TheBestDistributionOfContainers\obj\Debug\TheBestDistributionOfContainers.exe
+E:\MyDesktop\Code\c# обучение\Тест касперского 24.08.2018\TheBestDistributionOfContainers\TheBestDistributionOfContainers\obj\Debug\TheBestDistributionOfContainers.pdb
